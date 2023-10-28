@@ -1,0 +1,39 @@
+.projects {
+  height: 635px;
+  width: 1440px;
+}
+
+.projects .overlap-group-3 {
+  background-color: #ffffff;
+  height: 903px;
+  position: relative;
+  top: 37px;
+}
+
+.projects .text-wrapper-12 {
+  color: #457b9d;
+  font-family: "Sora", Helvetica;
+  font-size: 32px;
+  font-weight: 600;
+  left: 651px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: justify;
+  top: 89px;
+  width: 138px;
+}
+
+.projects .text-wrapper-13 {
+  color: #000000;
+  font-family: "Sora", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  left: 489px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: justify;
+  top: 164px;
+  width: 462px;
+}
