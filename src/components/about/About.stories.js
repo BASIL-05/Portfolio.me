@@ -1,0 +1,95 @@
+import { About } from ".";
+
+export default {
+  title: "Components/About",
+  component: About,
+};
+
+export const Default = {
+  args: {
+    freepikShadows:
+      "https://cdn.animaapp.com/projects/653c9d375650ba167f906efd/releases/653c9db10a18b93eb2753e38/img/freepik--shadows--inject-26-1@2x.png",
+    freepikPlantInject:
+      "https://cdn.animaapp.com/projects/653c9d375650ba167f906efd/releases/653c9db10a18b93eb2753e38/img/freepik--plant--inject-26-1@2x.png",
+    freepikPictures:
+      "https://cdn.animaapp.com/projects/653c9d375650ba167f906efd/releases/653c9db10a18b93eb2753e38/img/freepik--pictures--inject-26-1@2x.png",
+    freepikCharacter:
+      "https://cdn.animaapp.com/projects/653c9d375650ba167f906efd/releases/653c9db10a18b93eb2753e38/img/freepik--character--inject-26-1@2x.png",
+    vector:
+      "https://cdn.animaapp.com/projects/653c9d375650ba167f906efd/releases/653c9db10a18b93eb2753e38/img/vector-46.svg",
+    img:
+      "https://cdn.animaapp.com/projects/653c9d375650ba167f906efd/releases/653c9db10a18b93eb2753e38/img/vector-47.svg",
+    vector1:
+      "https://cdn.animaapp.com/projects/653c9d375650ba167f906efd/releases/653c9db10a18b93eb2753e38/img/vector-48.svg",
+    vector2:
+      "https://cdn.animaapp.com/projects/653c9d375650ba167f906efd/releases/653c9db10a18b93eb2753e38/img/vector-48.svg",
+    vector3:
+      "https://cdn.animaapp.com/projects/653c9d375650ba167f906efd/releases/653c9db10a18b93eb2753e38/img/vector-50.svg",
+    vector4:
+      "https://cdn.animaapp.com/projects/653c9d375650ba167f906efd/releases/653c9db10a18b93eb2753e38/img/vector-51.svg",
+    vector5:
+      "https://cdn.animaapp.com/projects/653c9d375650ba167f906efd/releases/653c9db10a18b93eb2753e38/img/vector-52.svg",
+    vector6:
+      "https://cdn.animaapp.com/projects/653c9d375650ba167f906efd/releases/653c9db10a18b93eb2753e38/img/vector-53.svg",
+    vector7:
+      "https://cdn.animaapp.com/projects/653c9d375650ba167f906efd/releases/653c9db10a18b93eb2753e38/img/vector-54.svg",
+    vector8:
+      "https://cdn.animaapp.com/projects/653c9d375650ba167f906efd/releases/653c9db10a18b93eb2753e38/img/vector-55.svg",
+    vector9:
+      "https://cdn.animaapp.com/projects/653c9d375650ba167f906efd/releases/653c9db10a18b93eb2753e38/img/vector-56.svg",
+    vector10:
+      "https://cdn.animaapp.com/projects/653c9d375650ba167f906efd/releases/653c9db10a18b93eb2753e38/img/vector-57.svg",
+    vector11:
+      "https://cdn.animaapp.com/projects/653c9d375650ba167f906efd/releases/653c9db10a18b93eb2753e38/img/vector-58.svg",
+    vector12:
+      "https://cdn.animaapp.com/projects/653c9d375650ba167f906efd/releases/653c9db10a18b93eb2753e38/img/vector-59.svg",
+    vector13:
+      "https://cdn.animaapp.com/projects/653c9d375650ba167f906efd/releases/653c9db10a18b93eb2753e38/img/vector-61.svg",
+    vector14:
+      "https://cdn.animaapp.com/projects/653c9d375650ba167f906efd/releases/653c9db10a18b93eb2753e38/img/vector-62.svg",
+    vector15:
+      "https://cdn.animaapp.com/projects/653c9d375650ba167f906efd/releases/653c9db10a18b93eb2753e38/img/vector-63.svg",
+    vector16:
+      "https://cdn.animaapp.com/projects/653c9d375650ba167f906efd/releases/653c9db10a18b93eb2753e38/img/vector-64.svg",
+    vector17:
+      "https://cdn.animaapp.com/projects/653c9d375650ba167f906efd/releases/653c9db10a18b93eb2753e38/img/vector-65.svg",
+    vector18:
+      "https://cdn.animaapp.com/projects/653c9d375650ba167f906efd/releases/653c9db10a18b93eb2753e38/img/vector-68.svg",
+    vector19:
+      "https://cdn.animaapp.com/projects/653c9d375650ba167f906efd/releases/653c9db10a18b93eb2753e38/img/vector-69.svg",
+    vector20:
+      "https://cdn.animaapp.com/projects/653c9d375650ba167f906efd/releases/653c9db10a18b93eb2753e38/img/vector-70.svg",
+    vector21:
+      "https://cdn.animaapp.com/projects/653c9d375650ba167f906efd/releases/653c9db10a18b93eb2753e38/img/vector-71.svg",
+    vector22:
+      "https://cdn.animaapp.com/projects/653c9d375650ba167f906efd/releases/653c9db10a18b93eb2753e38/img/vector-72.svg",
+    vector23:
+      "https://cdn.animaapp.com/projects/653c9d375650ba167f906efd/releases/653c9db10a18b93eb2753e38/img/vector-73.svg",
+    vector24:
+      "https://cdn.animaapp.com/projects/653c9d375650ba167f906efd/releases/653c9db10a18b93eb2753e38/img/vector-75.svg",
+    vector25:
+      "https://cdn.animaapp.com/projects/653c9d375650ba167f906efd/releases/653c9db10a18b93eb2753e38/img/vector-76.svg",
+    vector26:
+      "https://cdn.animaapp.com/projects/653c9d375650ba167f906efd/releases/653c9db10a18b93eb2753e38/img/vector-77.svg",
+    vector27:
+      "https://cdn.animaapp.com/projects/653c9d375650ba167f906efd/releases/653c9db10a18b93eb2753e38/img/vector-80.svg",
+    vector28:
+      "https://cdn.animaapp.com/projects/653c9d375650ba167f906efd/releases/653c9db10a18b93eb2753e38/img/vector-81.svg",
+    vector29:
+      "https://cdn.animaapp.com/projects/653c9d375650ba167f906efd/releases/653c9db10a18b93eb2753e38/img/vector-82.svg",
+    vector30:
+      "https://cdn.animaapp.com/projects/653c9d375650ba167f906efd/releases/653c9db10a18b93eb2753e38/img/vector-83.svg",
+    vector31:
+      "https://cdn.animaapp.com/projects/653c9d375650ba167f906efd/releases/653c9db10a18b93eb2753e38/img/vector-84.svg",
+    vector32:
+      "https://cdn.animaapp.com/projects/653c9d375650ba167f906efd/releases/653c9db10a18b93eb2753e38/img/vector-85.svg",
+    vector33:
+      "https://cdn.animaapp.com/projects/653c9d375650ba167f906efd/releases/653c9db10a18b93eb2753e38/img/vector-87.svg",
+    vector34:
+      "https://cdn.animaapp.com/projects/653c9d375650ba167f906efd/releases/653c9db10a18b93eb2753e38/img/vector-88.svg",
+    vector35:
+      "https://cdn.animaapp.com/projects/653c9d375650ba167f906efd/releases/653c9db10a18b93eb2753e38/img/vector-89.svg",
+    vector36:
+      "https://cdn.animaapp.com/projects/653c9d375650ba167f906efd/releases/653c9db10a18b93eb2753e38/img/vector-90.svg",
+  },
+};
