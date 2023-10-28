@@ -1,0 +1,63 @@
+.skills {
+  height: 281px;
+  position: relative;
+  width: 837px;
+}
+
+.skills .text-wrapper-11 {
+  color: #000000;
+  font-family: "Sora", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  left: 212px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: justify;
+  top: -1px;
+}
+
+.skills .ps {
+  height: 149px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 109px;
+  width: 161px;
+}
+
+.skills .flutter {
+  height: 149px;
+  left: 222px;
+  object-fit: cover;
+  position: absolute;
+  top: 109px;
+  width: 174px;
+}
+
+.skills .html {
+  height: 149px;
+  left: 436px;
+  object-fit: cover;
+  position: absolute;
+  top: 109px;
+  width: 130px;
+}
+
+.skills .css {
+  height: 140px;
+  left: 612px;
+  object-fit: cover;
+  position: absolute;
+  top: 118px;
+  width: 131px;
+}
+
+.skills .js {
+  height: 140px;
+  left: 784px;
+  object-fit: cover;
+  position: absolute;
+  top: 118px;
+  width: 129px;
+}
