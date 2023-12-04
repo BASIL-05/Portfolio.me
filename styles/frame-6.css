@@ -1,0 +1,1201 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.frame-6-BQ9 {
+  width: 100%;
+  height: 325.5rem;
+}
+.frame-6-BQ9 .frame-5-z6h {
+  width: 100%;
+  height: 100%;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy {
+  box-sizing: border-box;
+  padding-bottom: 3.9939rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: #ebfeff;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .navbar-qWd {
+  margin-bottom: 6.4rem;
+  box-sizing: border-box;
+  padding: 3rem 14.4rem 3.2rem 14.4rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0 #000000;
+  box-shadow: 0 1.8rem 3.1rem rgba(0, 0, 0, 0.9700000286);
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .navbar-qWd .basil-sabu-k7o {
+  margin-right: 31.3rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .navbar-qWd .frame-1-dhP {
+  margin-top: 0.1889rem;
+  display: flex;
+  column-gap: 5rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .navbar-qWd .frame-1-dhP .home-AhK {
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .navbar-qWd .frame-1-dhP .about-y2V {
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.26;
+  text-decoration-line: underline;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .navbar-qWd .frame-1-dhP .skill-sdf {
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .navbar-qWd .frame-1-dhP .project-Qdb {
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.26;
+  text-decoration-line: underline;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .navbar-qWd .frame-1-dhP .contact-9bB {
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.26;
+  text-decoration-line: underline;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV {
+  margin-bottom: 5.2rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .header-MSM {
+  margin: 0rem 8.5rem 7.924rem 14.5rem;
+  width: calc(100% - 23rem);
+  height: 57.5758rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .header-MSM .auto-group-bowb-re1 {
+  margin: 16rem 6.8rem 14.076rem 0rem;
+  width: 60.3rem;
+  height: calc(100% - 30.0758rem);
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .header-MSM .auto-group-bowb-re1 .group-3-Aeh {
+  margin: 0rem 0rem 4.4rem 0.2rem;
+  display: flex;
+  flex-direction: column;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .header-MSM .auto-group-bowb-re1 .group-3-Aeh .hi-everyone-i-am-Vws {
+  margin-bottom: 1.1rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #457b9d;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .header-MSM .auto-group-bowb-re1 .group-3-Aeh .basil-sabu-dHP {
+  margin-bottom: 1.3rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .header-MSM .auto-group-bowb-re1 .group-3-Aeh .b-tech-undergraduate-student-from-college-of-engineering-trivandrum--Zgq {
+  max-width: 60.1rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: rgba(0, 0, 0, 0.8000000119);
+  font-family: Sora, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .header-MSM .auto-group-bowb-re1 .auto-group-p7fy-G5T {
+  margin-right: 3.5rem;
+  width: calc(100% - 3.5rem);
+  height: 6.4rem;
+  display: flex;
+  align-items: center;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .header-MSM .auto-group-bowb-re1 .auto-group-p7fy-G5T .group-1-oLH {
+  margin-right: 2rem;
+  box-sizing: border-box;
+  padding: 1.7rem 4.4rem 1.6rem 4.5rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #457b9d;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .header-MSM .auto-group-bowb-re1 .auto-group-p7fy-G5T .group-1-oLH .download-cv-KZX {
+  margin: 0.5rem 1.6rem 0rem 0rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.26;
+  text-decoration-line: underline;
+  color: #ffffff;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .header-MSM .auto-group-bowb-re1 .auto-group-p7fy-G5T .group-1-oLH .download-from-the-cloud-D97 {
+  margin-bottom: 0.1rem;
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .header-MSM .auto-group-bowb-re1 .auto-group-p7fy-G5T .group-2-ekD {
+  width: 27.4rem;
+  height: 100%;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.26;
+  text-decoration-line: underline;
+  color: #457b9d;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #457b9d;
+  box-sizing: border-box;
+  background-color: rgba(69, 123, 157, 0.1000000015);
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .header-MSM .auto-group-azdh-gB7 {
+  width: 53.9rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .header-MSM .auto-group-azdh-gB7 .rectangle-14-po7 {
+  width: 47.9rem;
+  height: 39rem;
+  position: absolute;
+  left: 0;
+  top: 13.5rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #457b9d;
+  border-radius: 4rem;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .header-MSM .auto-group-azdh-gB7 .my-project-1-1-2-Kjs {
+  width: 52rem;
+  height: 52.4758rem;
+  position: relative;
+  left: 1.9rem;
+  top: 0;
+  background-size: 100.915% 100%;
+  background-position: -0.2677rem -0rem;
+  background-image: url('../assets/my-project-1-1-2.png');
+  border-radius: 1.5rem;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 {
+  margin-bottom: 8rem;
+  box-sizing: border-box;
+  padding: 10.048rem 11.8rem 7.105rem 17.25rem;
+  width: 100%;
+  height: 61.6rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM {
+  margin-right: 3.95rem;
+  width: 44.5rem;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-floor-inject-26-CBP {
+  width: 44.5rem;
+  height: 25.692rem;
+  position: absolute;
+  left: 0;
+  top: 18.7545rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-shadows-inject-26-Wxm {
+  width: 32.7243rem;
+  height: 15.9618rem;
+  position: absolute;
+  left: 4.345rem;
+  top: 24.8935rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-plant-inject-26-SbX {
+  width: 7.582rem;
+  height: 10.56rem;
+  position: absolute;
+  left: 3.081rem;
+  top: 22.5585rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-pictures-inject-26-yLZ {
+  width: 5.969rem;
+  height: 13.749rem;
+  position: absolute;
+  left: 5.608rem;
+  top: 1.3985rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-character-inject-26-6RB {
+  width: 23.95rem;
+  height: 32.9583rem;
+  position: absolute;
+  left: 11.25rem;
+  top: 7.3999rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w {
+  width: 16.9357rem;
+  height: 19.2517rem;
+  position: absolute;
+  left: 24.9033rem;
+  top: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-uNd {
+  width: 13.744rem;
+  height: 19.2195rem;
+  position: absolute;
+  left: 3.1917rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-3Uq {
+  width: 13.744rem;
+  height: 19.2195rem;
+  position: absolute;
+  left: 3.1917rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-aUm {
+  width: 13.448rem;
+  height: 18.96rem;
+  position: absolute;
+  left: 3.0607rem;
+  top: 0.2917rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-7jb {
+  width: 13.448rem;
+  height: 18.96rem;
+  position: absolute;
+  left: 3.0607rem;
+  top: 0.2917rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-rx5 {
+  width: 13.447rem;
+  height: 8.6998rem;
+  position: absolute;
+  left: 3.0607rem;
+  top: 0.2917rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-CW9 {
+  width: 13.447rem;
+  height: 18.96rem;
+  position: absolute;
+  left: 3.0617rem;
+  top: 0.2915rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-jky {
+  width: 4.9488rem;
+  height: 2.9469rem;
+  position: absolute;
+  left: 3.9941rem;
+  top: 2.8117rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-H1o {
+  width: 3.7263rem;
+  height: 2.2413rem;
+  position: absolute;
+  left: 11.8835rem;
+  top: 7.3663rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-2EH {
+  width: 1.6486rem;
+  height: 1.0413rem;
+  position: absolute;
+  left: 9.6873rem;
+  top: 6.1003rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-Zk1 {
+  width: 4.9441rem;
+  height: 2.9438rem;
+  position: absolute;
+  left: 3.9941rem;
+  top: 9.4487rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-Hvu {
+  width: 3.722rem;
+  height: 2.2382rem;
+  position: absolute;
+  left: 11.8835rem;
+  top: 14.0033rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-cyB {
+  width: 1.6442rem;
+  height: 1.0382rem;
+  position: absolute;
+  left: 9.6873rem;
+  top: 12.7373rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-MQy {
+  width: 4.9553rem;
+  height: 2.9473rem;
+  position: absolute;
+  left: 3.9875rem;
+  top: 11.0043rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-HpR {
+  width: 2.2346rem;
+  height: 1.3792rem;
+  position: absolute;
+  left: 11.8773rem;
+  top: 15.5603rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-ddP {
+  width: 1.6423rem;
+  height: 1.0373rem;
+  position: absolute;
+  left: 9.6935rem;
+  top: 14.3013rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-ySM {
+  width: 2.5699rem;
+  height: 1.5712rem;
+  position: absolute;
+  left: 4.0053rem;
+  top: 3.6454rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-uau {
+  width: 3.7326rem;
+  height: 2.2443rem;
+  position: absolute;
+  left: 9.6873rem;
+  top: 6.9253rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-pC5 {
+  width: 1.6377rem;
+  height: 1.0352rem;
+  position: absolute;
+  left: 7.3335rem;
+  top: 5.5643rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-j49 {
+  width: 4.9349rem;
+  height: 2.9409rem;
+  position: absolute;
+  left: 4.0033rem;
+  top: 4.4647rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-rPf {
+  width: 1.1532rem;
+  height: 0.7552rem;
+  position: absolute;
+  left: 11.8773rem;
+  top: 9.0123rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-BB3 {
+  width: 1.1513rem;
+  height: 0.7543rem;
+  position: absolute;
+  left: 5.8935rem;
+  top: 6.3833rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-5nD {
+  width: 1.6423rem;
+  height: 1.0373rem;
+  position: absolute;
+  left: 9.6935rem;
+  top: 7.7533rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-Crq {
+  width: 1.7327rem;
+  height: 1.0882rem;
+  position: absolute;
+  left: 3.9941rem;
+  top: 5.2857rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-LCM {
+  width: 1.6486rem;
+  height: 1.0413rem;
+  position: absolute;
+  left: 7.3273rem;
+  top: 7.2103rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-fkR {
+  width: 4.9441rem;
+  height: 2.9438rem;
+  position: absolute;
+  left: 3.9941rem;
+  top: 6.1707rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-ord {
+  width: 3.722rem;
+  height: 2.2363rem;
+  position: absolute;
+  left: 11.8835rem;
+  top: 10.7273rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-Lbf {
+  width: 1.6443rem;
+  height: 1.0382rem;
+  position: absolute;
+  left: 9.6873rem;
+  top: 9.4593rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-H17 {
+  width: 2.5923rem;
+  height: 1.5863rem;
+  position: absolute;
+  left: 3.9875rem;
+  top: 6.9913rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-pFw {
+  width: 3.7263rem;
+  height: 2.2413rem;
+  position: absolute;
+  left: 9.6935rem;
+  top: 10.2873rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-MWm {
+  width: 1.6439rem;
+  height: 1.0392rem;
+  position: absolute;
+  left: 7.3273rem;
+  top: 8.9193rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-6jF {
+  width: 4.9488rem;
+  height: 2.9469rem;
+  position: absolute;
+  left: 3.9941rem;
+  top: 7.8197rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-So7 {
+  width: 1.1576rem;
+  height: 0.7573rem;
+  position: absolute;
+  left: 11.8773rem;
+  top: 12.3713rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-nMB {
+  width: 1.1513rem;
+  height: 0.7543rem;
+  position: absolute;
+  left: 5.8935rem;
+  top: 9.7423rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-iVj {
+  width: 1.6453rem;
+  height: 1.0393rem;
+  position: absolute;
+  left: 9.6935rem;
+  top: 11.1123rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-TTK {
+  width: 1.7366rem;
+  height: 1.092rem;
+  position: absolute;
+  left: 3.9862rem;
+  top: 8.6375rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-nVb {
+  width: 1.6423rem;
+  height: 1.0383rem;
+  position: absolute;
+  left: 7.3335rem;
+  top: 10.5723rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-8JZ {
+  width: 1.1615rem;
+  height: 0.7586rem;
+  position: absolute;
+  left: 5.8893rem;
+  top: 11.3193rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-Trd {
+  width: 1.7353rem;
+  height: 1.0913rem;
+  position: absolute;
+  left: 3.9875rem;
+  top: 10.2213rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-ntu {
+  width: 1.6377rem;
+  height: 1.0352rem;
+  position: absolute;
+  left: 7.3335rem;
+  top: 12.1533rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-8Sy {
+  width: 0.225rem;
+  height: 4.173rem;
+  position: absolute;
+  left: 4.8067rem;
+  top: 3.8935rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-s9f {
+  width: 4.952rem;
+  height: 2.889rem;
+  position: absolute;
+  left: 0.0467rem;
+  top: 1.1075rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-o3K {
+  width: 4.8473rem;
+  height: 6.8358rem;
+  position: absolute;
+  left: 0.019rem;
+  top: 1.2062rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .item--XED {
+  width: 1.1rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 3.088rem;
+  top: 3.4584rem;
+  font-size: 2.5844rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #fafafa;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-RKb {
+  width: 4.8774rem;
+  height: 6.883rem;
+  position: absolute;
+  left: 0;
+  top: 1.1895rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-Mj3 {
+  width: 0.342rem;
+  height: 0.4448rem;
+  position: absolute;
+  left: 3.9507rem;
+  top: 0.9921rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-tys {
+  width: 0.343rem;
+  height: 0.4457rem;
+  position: absolute;
+  left: 4.5857rem;
+  top: 1.3837rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .code-typing-amico-1-fSM .freepik-screen-inject-26-23w .vector-Ryo {
+  width: 0.342rem;
+  height: 0.4448rem;
+  position: absolute;
+  left: 5.2217rem;
+  top: 1.7771rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .group-6-mGy {
+  margin-top: 6.4565rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .group-6-mGy .about-me-X1F {
+  margin: 0rem 0rem 3.7rem 2.2rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .about-Zu7 .group-6-mGy .hello-my-name-is-basil-sabu-i-am-currently-pursuing-a-bachelors-degree-in-computer-science-from-the-prestigious-college-of-engineering-trivandrum-i-have-a-keen-interest-in-the-field-of-ui-ux-design-and-flutter-development-in-addition-to-my-technical-skills-i-possess-strong-communication-and-management-abilities-i-believe-effective-communication-is-essential-for-a-successful-collaboration-with-team-members-stakeholders-and-clients-moreover-my-management-skills-enable-me-to-organize-and-prioritize-tasks-effectively-ensuring-efficient-project-execution-and-timely-delivery-EgM {
+  max-width: 66.5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #455a64;
+  font-family: Sora, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .skills-s73 {
+  margin: 0rem 22.6rem 14rem 31.7rem;
+  width: calc(100% - 54.3rem);
+  height: 25.8rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .skills-s73 .ps-1-nE1 {
+  margin-right: 3.6rem;
+  width: 16.1rem;
+  height: 14.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .skills-s73 .auto-group-je6o-idT {
+  margin-right: 2.9rem;
+  width: 54.2rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .skills-s73 .auto-group-je6o-idT .what-i-am-capable-of-rjf {
+  margin-bottom: 4.8rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .skills-s73 .auto-group-je6o-idT .auto-group-6lvr-avZ {
+  margin: 0rem 1.2rem 0rem 0.9rem;
+  width: calc(100% - 2.1rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .skills-s73 .auto-group-je6o-idT .auto-group-6lvr-avZ .flutter-1-uhw {
+  margin-right: 4.1rem;
+  width: 17.4rem;
+  height: 14.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .skills-s73 .auto-group-je6o-idT .auto-group-6lvr-avZ .html2-1-3JM {
+  margin-right: 4.5rem;
+  width: 13rem;
+  height: 14.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .skills-s73 .auto-group-je6o-idT .auto-group-6lvr-avZ .css-1-yxh {
+  width: 13.1rem;
+  height: 14rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .skills-s73 .js-1-ifP {
+  width: 12.9rem;
+  height: 14rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .projects-s2V {
+  box-sizing: border-box;
+  padding: 9rem 2.1rem 8rem 2rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .projects-s2V .projects-bUH {
+  margin-left: 0.1rem;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.26;
+  color: #457b9d;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .projects-s2V .auto-group-dkmm-8DK {
+  width: 100%;
+  height: 69.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .projects-s2V .auto-group-dkmm-8DK .what-i-have-made-fyw {
+  width: 46.2rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 46.9rem;
+  top: 3.4rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .projects-s2V .auto-group-dkmm-8DK .frame-3-N7f {
+  box-sizing: border-box;
+  padding: 16.3rem 1.05rem;
+  width: 139.9rem;
+  height: 69.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .projects-s2V .auto-group-dkmm-8DK .frame-3-N7f .group-7-URb {
+  margin-right: 3rem;
+  box-sizing: border-box;
+  padding: 1rem 1.4rem 7.9rem 1.35rem;
+  width: 41.1rem;
+  height: 100%;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .projects-s2V .auto-group-dkmm-8DK .frame-3-N7f .group-7-URb .auto-group-tonk-bFK {
+  margin-bottom: 0.5rem;
+  width: 100%;
+  height: 23rem;
+  position: relative;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .projects-s2V .auto-group-dkmm-8DK .frame-3-N7f .group-7-URb .auto-group-tonk-bFK .image-1-jcR {
+  width: 38.35rem;
+  height: 21.35rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1rem 1rem 0 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .projects-s2V .auto-group-dkmm-8DK .frame-3-N7f .group-7-URb .auto-group-tonk-bFK .artgallary-rww {
+  width: 10.5rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 0.45rem;
+  top: 20.4rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .projects-s2V .auto-group-dkmm-8DK .frame-3-N7f .group-7-URb .https-art-gallery-drabvercelapp--mJD {
+  margin: 0rem 0rem 0.6rem 0.45rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.26;
+  text-decoration-line: underline;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .projects-s2V .auto-group-dkmm-8DK .frame-3-N7f .group-7-URb .html-css-js-github-ecu {
+  margin-left: 0.45rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #45979d;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .projects-s2V .auto-group-dkmm-8DK .frame-3-N7f .group-8-JhT {
+  margin-right: 3.75rem;
+  width: 45.65rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .projects-s2V .auto-group-dkmm-8DK .frame-3-N7f .group-8-JhT .rectangle-13-3f3 {
+  width: 45.5198rem;
+  height: 36.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .projects-s2V .auto-group-dkmm-8DK .frame-3-N7f .group-8-JhT .image-2-9xy {
+  width: 43.4rem;
+  height: 21.3rem;
+  position: absolute;
+  left: 2.25rem;
+  top: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1rem 1rem 0 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .projects-s2V .auto-group-dkmm-8DK .frame-3-N7f .group-8-JhT .quizzo-5Lq {
+  width: 7rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 2.2634rem;
+  top: 25.2658rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .projects-s2V .auto-group-dkmm-8DK .frame-3-N7f .group-8-JhT .https-githubcom-basil-05-pygamehacknight-Bem {
+  width: 34.7rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 0.503rem;
+  top: 28.9848rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.26;
+  text-decoration-line: underline;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .projects-s2V .auto-group-dkmm-8DK .frame-3-N7f .group-8-JhT .python-Uds {
+  width: 5.1rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 2.2634rem;
+  top: 31.8184rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #45979d;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .projects-s2V .auto-group-dkmm-8DK .frame-3-N7f .group-8-JhT .github-z6R {
+  width: 5rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 12.826rem;
+  top: 31.8184rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #45979d;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .projects-s2V .auto-group-dkmm-8DK .frame-3-N7f .group-9-gjw {
+  width: 44.3rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .projects-s2V .auto-group-dkmm-8DK .frame-3-N7f .group-9-gjw .rectangle-13-dQH {
+  width: 44.178rem;
+  height: 36.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .projects-s2V .auto-group-dkmm-8DK .frame-3-N7f .group-9-gjw .image-3-9Nd {
+  width: 44.3rem;
+  height: 23.3768rem;
+  position: absolute;
+  left: 0;
+  top: 0.059rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1rem 1rem 0 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .projects-s2V .auto-group-dkmm-8DK .frame-3-N7f .group-9-gjw .task-completer-app-fbs {
+  width: 21rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 2.1967rem;
+  top: 25.2658rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .projects-s2V .auto-group-dkmm-8DK .frame-3-N7f .group-9-gjw .https-githubcom-basil-05-todolist-B4R {
+  width: 28.2rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 2.1967rem;
+  top: 28.9258rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.26;
+  text-decoration-line: underline;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .projects-s2V .auto-group-dkmm-8DK .frame-3-N7f .group-9-gjw .flutter-fVP {
+  width: 4.7rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 2.1967rem;
+  top: 31.8184rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #45979d;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .frame-4-1NV .projects-s2V .auto-group-dkmm-8DK .frame-3-N7f .group-9-gjw .github-Nub {
+  width: 5rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 12.4479rem;
+  top: 31.8184rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #45979d;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .footer-eMK {
+  margin-left: 12.5rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .footer-eMK .contacts-Bc9 {
+  margin: 0rem 0rem 1.095rem 0.389rem;
+  font-size: 2.8rem;
+  font-weight: 600;
+  line-height: 1.26;
+  color: #457b9d;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .footer-eMK .get-in-touch-i6H {
+  margin: 0rem 0rem 2.881rem 0.337rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .footer-eMK .basilsabu5556gmailcom-qAu {
+  margin: 0rem 0rem 2.124rem 0.337rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .footer-eMK .imbasil-9Bb {
+  margin: 0rem 0rem 2.8rem 0.3rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.26;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .footer-eMK .basil-sabu-G1K {
+  margin: 0rem 0rem 2.82rem 0.4rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.26;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .footer-eMK .auto-group-o62f-Nq3 {
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .footer-eMK .auto-group-o62f-Nq3 .linkedin-Xhw {
+  margin: 0rem 2.506rem 0.007rem 0rem;
+  width: 7.7846rem;
+  height: 5.3716rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .footer-eMK .auto-group-o62f-Nq3 .github-TLh {
+  margin-right: 2.675rem;
+  width: 7.7846rem;
+  height: 5.3716rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-6-BQ9 .frame-5-z6h .desktop-1-LJy .footer-eMK .auto-group-o62f-Nq3 .instagram-zLd {
+  margin-bottom: 0.1141rem;
+  width: 7.7846rem;
+  height: 5.3716rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
