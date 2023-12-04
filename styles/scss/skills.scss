@@ -1,0 +1,90 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 83.7rem;
+}.skills-GDK {
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  box-sizing: border-box;
+  padding-left: 1.55rem;
+
+  .ps-1-oU9 {
+    height: 14.9rem;
+    object-fit: cover;
+    vertical-align: top;
+    flex-shrink: 0;
+    margin: 0rem 3.6rem 2.3rem 0rem;
+    width: 16.1rem;
+  }
+  .auto-group-yfzs-WtM {
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    margin: 0rem 2.9rem 2.3rem 0rem;
+    width: 54.2rem;
+    align-items: center;
+
+    .what-i-am-capable-of-SX7 {
+      line-height: 1.26;
+      color: #000000;
+      font-family: Sora, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin-bottom: 4.8rem;
+      font-size: 4.8rem;
+      font-weight: 700;
+    }
+    .auto-group-apmy-N9s {
+      flex-shrink: 0;
+      margin: 0rem 1.2rem 0rem 0.9rem;
+      width: calc(100% - 2.1rem);
+      display: flex;
+      align-items: flex-end;
+
+      .flutter-1-6Lm {
+        height: 14.9rem;
+        object-fit: cover;
+        vertical-align: top;
+        flex-shrink: 0;
+        margin-right: 4.1rem;
+        width: 17.4rem;
+      }
+      .html2-1-2VK {
+        flex-shrink: 0;
+        margin-right: 4.5rem;
+        width: 13rem;
+        height: 14.9rem;
+        object-fit: cover;
+        vertical-align: top;
+      }
+      .css-1-ArR {
+        object-fit: cover;
+        vertical-align: top;
+        flex-shrink: 0;
+        width: 13.1rem;
+        height: 14rem;
+      }
+    }
+  }
+  .js-1-JBw {
+    margin-bottom: 2.3rem;
+    width: 12.9rem;
+    height: 14rem;
+    object-fit: cover;
+    vertical-align: top;
+    flex-shrink: 0;
+  }
+}

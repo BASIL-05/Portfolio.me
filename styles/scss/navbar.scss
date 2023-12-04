@@ -1,0 +1,92 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.navbar-5Vo {
+  border: solid 0.1rem #000000;
+  box-shadow: 0 1.8rem 3.1rem rgba(0, 0, 0, 0.9700000286);
+  box-sizing: border-box;
+  padding: 3rem 14.4rem 3.2rem 14.4rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+
+  .basil-sabu-1PT {
+    color: #000000;
+    font-family: Sora, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+    margin-right: 31.3rem;
+    font-size: 3rem;
+    font-weight: 700;
+    line-height: 1.26;
+  }
+  .frame-1-wY1 {
+    margin-top: 0.1889rem;
+    display: flex;
+    column-gap: 5rem;
+    align-items: center;
+    flex-shrink: 0;
+
+    .home-tCM {
+      color: #000000;
+      font-family: Sora, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      font-size: 2.8rem;
+      font-weight: 400;
+      line-height: 1.26;
+    }
+    .about-2pM {
+      font-weight: 400;
+      line-height: 1.26;
+      text-decoration-line: underline;
+      color: rgba(0, 0, 0, 0.6999999881);
+      font-family: Sora, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      font-size: 2.8rem;
+    }
+    .skill-aL5 {
+      font-weight: 400;
+      line-height: 1.26;
+      color: rgba(0, 0, 0, 0.6999999881);
+      font-family: Sora, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      font-size: 2.8rem;
+    }
+    .project-ihB {
+      line-height: 1.26;
+      text-decoration-line: underline;
+      color: rgba(0, 0, 0, 0.6999999881);
+      font-family: Sora, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      font-size: 2.8rem;
+      font-weight: 400;
+    }
+    .contact-rHb {
+      white-space: nowrap;
+      flex-shrink: 0;
+      font-size: 2.8rem;
+      font-weight: 400;
+      line-height: 1.26;
+      text-decoration-line: underline;
+      color: rgba(0, 0, 0, 0.6999999881);
+      font-family: Sora, 'Source Sans Pro';
+    }
+  }
+}
