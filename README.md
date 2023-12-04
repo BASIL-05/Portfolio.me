@@ -6,7 +6,6 @@ https://www.figma.com/file/gijB1AW9YaFGAfPcu66yRM/Basil-Sabu-Portfolio.me-(Commu
 
 
 
-> **Prerequisites:**
 [http://localhost:1234/](http://localhost:1234/)
 
 
