@@ -1,4 +1,2 @@
 # Portfolio. me
-A simple portfolio website 
-
-
+A website developed purely for trial to showcase trial 
