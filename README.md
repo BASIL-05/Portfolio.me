@@ -1,2 +1,2 @@
 # Portfolio. me
-A website developed purely for trial to showcase trial 
+A website developed purely to test new updations else where
